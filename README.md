@@ -1010,7 +1010,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Source-backed timelines of tech, economy and gaming events, with the quote behind each entry.
 - [WhiteMagic](https://www.whitemagic.dev) `https://mcp.whitemagic.dev/mcp`
   [![WhiteMagic MCP connector](https://glama.ai/mcp/connectors/io.github.lbailey94/whitemagic-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lbailey94/whitemagic-mcp)
-  🔑 - Local-first memory and session continuity for AI agents: durable recall, session handoffs, and signed continuity receipts, with a read-only hosted evaluation lane.
+  🔓 - Local-first agent memory and session continuity: durable recall, handoffs, and signed continuity receipts.
 
 ### ⚖️ <a name="legal"></a>Legal
 
